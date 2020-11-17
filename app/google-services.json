@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278492216540",
+    "firebase_url": "https://advanced-android-webview-56350.firebaseio.com",
+    "project_id": "advanced-android-webview-56350",
+    "storage_bucket": "advanced-android-webview-56350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278492216540:android:0ee52f8e0f301870408819",
+        "android_client_info": {
+          "package_name": "com.supernover.JobInRwanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278492216540-nbcq062qenrjsjm3qk85icmrskgb38cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TVfepu1qp8Xnu4M0DFhsbQZHJSSL68k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278492216540-nbcq062qenrjsjm3qk85icmrskgb38cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
